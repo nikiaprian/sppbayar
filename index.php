@@ -14,7 +14,7 @@ session_start();
     <title>WEB PEMBAYARAN SPP</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="Assets\css\bootstrap.min.css" rel="stylesheet">
+    <link href="css\bootstrap.min.css" rel="stylesheet">
 	<style type="text/css">
 	body {
 	padding-top: 40px;
